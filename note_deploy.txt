@@ -5,3 +5,8 @@ several source to learn
 
 	- website:
 		1. deploying my first full-stack web application: https://www.freecodecamp.org/news/lessons-learned-from-deploying-my-first-full-stack-web-application-34f94ec0a286/
+		
+	- DEPLOY using FIREBASE:
+		reference : --> documentation: https://firebase.google.com/docs/hosting/quickstart
+		1. first run 'npm run build'
+		2. follow documentation from firebase hosting
